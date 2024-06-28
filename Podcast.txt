@@ -1,0 +1,37 @@
+Qui ci sono dei link RSS dei principali PODCAST italiani:
+
+1) La Zanzara
+https://www.radio24.ilsole24ore.com/podcast/lazanzara.xml
+
+2) Tintoria
+https://www.spreaker.com/show/2830173/episodes/feed
+
+3) Geopop
+https://feeds.megaphone.fm/CPS2408869581
+
+4) Muschio Selvaggio
+https://anchor.fm/s/8a73ebc0/podcast/rss
+
+5) Giorno per giorno - Corriere della Sera
+https://www.spreaker.com/show/4487282/episodes/feed
+
+6) Le news di Sky TG24: ultime notizie live
+https://cache.sky.it/google-home-assistant/tg24-last-news.xml
+
+7) Alessandro Barbero Podcast - La Storia
+https://www.spreaker.com/show/4860527/episodes/feed
+
+8) Storie di Geopolitica
+https://www.spreaker.com/show/4639408/episodes/feed
+
+9) Club Pirata
+https://www.spreaker.com/show/4416301/episodes/feed
+
+10) Poteri forti
+https://www.spreaker.com/show/2924868/episodes/feed
+
+11) Scientificast
+https://www.spreaker.com/show/1762253/episodes/feed
+
+Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra sul sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast.
+È possibile scaricare l'episodio del podcast cliccando su salva.
