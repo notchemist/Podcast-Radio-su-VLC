@@ -33,4 +33,7 @@ https://www.spreaker.com/show/2924868/episodes/feed
 11) Scientificast
 https://www.spreaker.com/show/1762253/episodes/feed
 
+12) Curiuss
+https://www.spreaker.com/show/6117532/episodes/feed
+
 Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra sul sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast.
