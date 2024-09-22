@@ -36,4 +36,10 @@ https://www.spreaker.com/show/1762253/episodes/feed
 12) Curiuss
 https://www.spreaker.com/show/6117532/episodes/feed
 
-Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra sul sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast.
+13) Elisa True Crime
+https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/1e4b336a-52e9-4d74-8616-aeac00f7a647/77ea6e74-62bf-48f4-bf3b-aeac00f7a65a/podcast.rss
+
+14) IL BAZaR AtOMICo
+https://anchor.fm/s/dde6124c/podcast/rss
+
+Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra nel sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast. Automaticamente verranno caricati il nome e gli episodi del podcast
