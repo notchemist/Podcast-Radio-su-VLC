@@ -21,8 +21,11 @@ LINK_RADIO
   Un esempio:
   
 #EXTM3U
+
 #EXTINF:-1 tvg-id="RTL 102.5" tvg-chno="1" group-title="Radio",RTL 102.5
+
 http://shoutcast.rtl.it:3010/
+
 
 Puoi aggiungere altre stazioni radio copiando e modificando le righe sopra per ogni nuova radio che vuoi inserire.
 
@@ -58,8 +61,11 @@ where:
   An example:
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="RTL 102.5" tvg-chno="1" group-title="Radio",RTL 102.5
+
 http://shoutcast.rtl.it:3010/
+
 
 You can add more radio stations copying and editing the lines above for each new radio you want to insert.
 
