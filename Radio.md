@@ -7,7 +7,9 @@ Per ascoltare stazioni radio direttamente su VLC Media Player puoi seguire quest
 2. Nel file di testo, inserisci il seguente testo:
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="NOME_RADIO" tvg-chno="ID_RADIO" group-title="Radio",NOME_RADIO
+
 LINK_RADIO
   
   dove:
