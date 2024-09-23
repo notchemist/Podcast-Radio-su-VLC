@@ -11,6 +11,7 @@ Per ascoltare stazioni radio direttamente su VLC Media Player puoi seguire quest
 LINK_RADIO
   
   dove:
+  
       NOME_RADIO: Il nome della stazione radio (es. "RTL 102.5").
       ID_RADIO: Un identificativo per la radio (es. "1").
       LINK_RADIO: L'URL del flusso streaming della radio.
@@ -42,6 +43,7 @@ To listen to radio stations directly on VLC Media Player you can follow these st
 LINK_RADIO
 
 where:
+
       RADIO_NAME: The name of the radio station (e.g. "RTL 102.5").
       ID_RADIO: An identifier for the radio (e.g. "1").
       LINK_RADIO: The URL of the radio streaming stream.
