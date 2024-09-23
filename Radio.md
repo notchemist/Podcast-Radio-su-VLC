@@ -2,9 +2,7 @@
 
 Per ascoltare stazioni radio direttamente su VLC Media Player puoi seguire questi passaggi:
 
-1. Prima cosa, apri un editor di testo e crea un nuovo file.
-
-2. Nel file di testo, inserisci il seguente testo:
+Apri un editor di testo e crea un nuovo file. Nel file di testo, inserisci il seguente testo:
 
 #EXTM3U
 
@@ -27,13 +25,9 @@ LINK_RADIO
 http://shoutcast.rtl.it:3010/
 
 
-Puoi aggiungere altre stazioni radio copiando e modificando le righe sopra per ogni nuova radio che vuoi inserire.
+Puoi aggiungere altre stazioni radio copiando e modificando le righe sopra per ogni nuova radio che vuoi inserire. Una volta inserite tutte le stazioni radio desiderate, salva il file. Assicurati di cambiare l'estensione del file da .txt a .m3u (esempio: radio_playlist.m3u). Apri VLC Media Player, poi:
 
-3. Una volta inserite tutte le stazioni radio desiderate, salva il file. Assicurati di cambiare l'estensione del file da .txt a .m3u (esempio: radio_playlist.m3u).
-
-5. Apri VLC Media Player, poi:
-
-    Clicca su Media → Apri file... e seleziona il file .m3u che hai appena creato. VLC caricherà automaticamente la playlist!
+  Clicca su Media → Apri file... e seleziona il file .m3u che hai appena creato. VLC caricherà automaticamente la playlist!
 
 
 
