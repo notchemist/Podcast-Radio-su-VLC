@@ -42,4 +42,5 @@ https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/1e4b
 14) IL BAZaR AtOMICo
 https://anchor.fm/s/dde6124c/podcast/rss
 
-Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra nel sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast. Automaticamente verranno caricati il nome e gli episodi del podcast
+Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra nel sottogruppo "Internet" è possibile trovare la voce "Podcast". 
+Cliccare su "+" e aggiungere il link del podcast. Automaticamente verranno caricati il nome e gli episodi del podcast
