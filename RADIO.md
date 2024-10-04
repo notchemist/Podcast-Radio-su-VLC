@@ -2,7 +2,7 @@
 
 Per ascoltare stazioni radio direttamente su VLC Media Player puoi seguire questi passaggi:
 
-Apri un editor di testo e crea un nuovo file. Nel file di testo, inserisci il seguente testo:
+Apri un editor di testo e crea un nuovo file e inserisci il seguente testo:
 
     #EXTM3U
     #EXTINF:-1 tvg-id="NOME_RADIO" tvg-chno="ID_RADIO" group-title="Radio",NOME_RADIO
@@ -14,7 +14,7 @@ Apri un editor di testo e crea un nuovo file. Nel file di testo, inserisci il se
   ID_RADIO: Un identificativo per la radio (es. "1").
   LINK_RADIO: L'URL del flusso streaming della radio.
   
-  Un esempio:
+Un esempio:
   
 #EXTM3U
 
@@ -23,16 +23,16 @@ Apri un editor di testo e crea un nuovo file. Nel file di testo, inserisci il se
 http://shoutcast.rtl.it:3010/
 
 
-Puoi aggiungere altre stazioni radio copiando e modificando le righe sopra per ogni nuova radio che vuoi inserire. Una volta inserite tutte le stazioni radio desiderate, salva il file. Assicurati di cambiare l'estensione del file da .txt a .m3u (esempio: radio_playlist.m3u). Apri VLC Media Player, poi:
+Puoi aggiungere altre stazioni radio copiando e modificando le righe sopra per ogni nuova radio che vuoi inserire. Una volta inserite tutte le stazioni radio desiderate, salva il file. Assicurati di cambiare l'estensione del file da .txt a .m3u (esempio: radio.m3u). Apri VLC Media Player, poi:
 
-  Clicca su Media → Apri file... e seleziona il file .m3u che hai appena creato. VLC caricherà automaticamente la playlist!
+  Clicca su Media → Apri file... e seleziona il file .m3u che hai creato. VLC caricherà automaticamente la playlist!
 
 
 **RADIO SU VLC** -ENG-
 
 To listen to radio stations directly on VLC Media Player you can follow these steps:
 
-Open a text editor and create a new file. In the text file, enter the following text:
+Open a text editor and create a new file and enter the following text:
 
     #EXTM3U
     #EXTINF:-1 tvg-id="RADIO_NAME" tvg-chno="ID_RADIO" group-title="Radio",RADIO_NAME
@@ -43,7 +43,7 @@ where:
   ID_RADIO: An identifier for the radio (e.g. "1").
   LINK_RADIO: The URL of the radio streaming stream.
 
-  An example:
+An example:
 
 #EXTM3U
 
@@ -52,6 +52,6 @@ where:
 http://shoutcast.rtl.it:3010/
 
 
-You can add more radio stations copying and editing the lines above for each new radio you want to insert. Once you have entered all the radio stations, save the file. Change the file extension from .txt to .m3u (example: radio_playlist.m3u). Open VLC Media Player, then:
+You can add more radio stations copying and editing the lines above for each new radio you want to insert. Once you have entered all the radio stations, save the file. Change the file extension from .txt to .m3u (example: radio.m3u). Open VLC Media Player, then:
   
   Click Media → Open File... and select the .m3u file you just created. VLC will automatically load the playlist!
