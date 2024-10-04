@@ -1,6 +1,6 @@
 **PODCAST SU VLC -ITA-**
 
-Nel file *podcast.txt* sono riportati dei link RSS di alcuni principali PODCAST italiani. Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra nel sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast. Automaticamente verranno caricati il nome e gli episodi del podcast
+Nel file *podcast.txt* sono riportati dei link RSS di alcuni principali PODCAST italiani. Per aggiungere questi link su VLC bisogna cliccare sul menu principale "Visualizza" poi "Scaletta". A sinistra nel sottogruppo "Internet" è possibile trovare la voce "Podcast". Cliccare su "+" e aggiungere il link del podcast. Automaticamente verranno caricati il nome e gli episodi del podcast.
 
 **PODCAST SU VLC -ENG-**
 
